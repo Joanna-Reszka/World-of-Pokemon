@@ -1,0 +1,21 @@
+﻿Stats;MAX 3 TYPY;;;;MIN 3;;;;;Stats;MAX 3 POKE;;;;MIN 3;;
+HP;Dragon;Ground;Fighting;;Bug;Poison;Ghost;;;HP;Blissey;Chansey;Guzlord;;Sunkern;Azuril;Kricketot
+ATT;Dragon;Fighting;Steel;;Bug;Poison;Fairy;;;ATT;Heracross;Rayquaza;Kartana;;Chansey;Happiny;Magikarp
+SP_ATT;Dragon;Psychic;Fire;;Bug;Ground;Rock;;;SP_ATT;Mewtwo;Rayquaza;Kyogre;;Feebas;Bonsly;Shuckle
+DEF;Dragon;Steel;Rock;;Bug;Normal;Electric;;;DEF;Shuckle;Steelix;Aggorn;;Chansey;Happiny;Blissey
+SP_DEF;Dragon;Steel;Psychic;;Bug;Normal;Dark;;;SP_DEF;Shuckle;Regice;Kyogre;;Magikarp;Weedle;Caterpie
+SPEED;Dragon;Electric;Flying;;Grass;Ground;Rock;;;SPEED;Deoyx;Nijask;Phermosa;;Shuckle;Puyukumuku;Munchlax
+BT;Dragon;Steel;Ghost;;Grass;Poison;Bug;;;BT;Rayquaza;Mewtwo;Kyogre;;;;
+;;;;;;;;;;;;;;;;;
+;Type;Freq in 3 Max of 6 Stats;Percent;;Type;Freq in 3 Max of 6 Stats;Percent;;;;;;;;;;
+;Dragon;7;100;;Bug;6;85.71428571;;;;Poke;Freq in 3 Max of 6 Stats;Percent;;Poke;Freq in 3 Max of 6 Stats;Percent
+;Steel;4;57.14285714;;Poison;3;42.85714286;;;;Rayquaza;3;42.85714286;;Chansey;2;28.57142857
+;Fighting;2;28.57142857;;Rock;2;28.57142857;;;;Mewtwo;2;28.57142857;;Happiny;2;28.57142857
+;Psychic;2;28.57142857;;Normal;2;28.57142857;;;;Kyogre;3;42.85714286;;Magikarp;2;28.57142857
+;Ground;1;14.28571429;;Ground;1;14.28571429;;;;Shuckle;2;28.57142857;;Shuckle;2;28.57142857
+;Electric;1;14.28571429;;Electric;1;14.28571429;;;;;1;14.28571429;;;1;14.28571429
+;Fire;1;14.28571429;;Fairy;1;14.28571429;;;;;1;14.28571429;;;1;14.28571429
+;Rock;1;14.28571429;;Ghost;1;14.28571429;;;;;1;14.28571429;;;1;14.28571429
+;Flying;1;14.28571429;;Grass;2;28.57142857;;;;;1;14.28571429;;;1;14.28571429
+;Ghost;1;14.28571429;;;;;;;;;1;14.28571429;;;1;14.28571429
+;;;;;;;;;;;;1;14.28571429;;;1;14.28571429
