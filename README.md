@@ -47,6 +47,10 @@ https://github.com/infoshareacademy/jdszr12-databenders
 ## Insights from the analysys 
 ###
 ### 1. Generations, types and combat statistics frequency distributions:
+
+![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/7a721e6a-e11c-49d3-a5c5-1b583ea8d0b4)
+
+
 ### Map Charts made in Tableau showing:
 frequency distribution of pokemon by primary and secondary type with distinction between 7 generations 
 
