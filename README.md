@@ -179,3 +179,6 @@ Frequency distribution of pokemon by primary and secondary type with distinction
 #### Chosen examples of 5 strategies:
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/21f6a071-9e43-49c4-a6f6-b6bfe4f8ea8a)
 
+## Conclusions and reccomendations
+
+#### The fascinating world of pokemon has revealed some of its secrets, but it would be interesting to check how the different strategies (balanced versus specialised) translate to combat skills, resiliancy and attack resistance.
