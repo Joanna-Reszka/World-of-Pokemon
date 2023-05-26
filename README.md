@@ -136,12 +136,12 @@ Frequency distribution of pokemon by primary and secondary type with distinction
 
 ### **Attack** against other features
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/7825fc55-a564-476a-b8b5-71331c63e1f5)
-
+### Feature correlations
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/3224ea22-b5a4-4f47-a2ee-b6709aa00294)
 
 #### Obviously **Base Total** as a feature calculated as sum of other combat statistics will be strongly to moderately correlated with **Attack**, **Special Attack**, **Defense**, **Special Defense**, **Hit Points** and **Speed**. It is also strongly negatively correlated with **Capture Rate** meaning the higher **Base Total** value the harder the pokemon will be to catch.
 #### The remaining combat statistics and features are weakly to mildly correlated, with only exception of quite expected strong correlation between weight and height.
-
+### Type clustering by medians of features
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/3c9f98d5-31d2-4e10-942f-339ab30deb6e)
 
 #### Pokemon cluster in 3 groups:
@@ -162,10 +162,12 @@ Frequency distribution of pokemon by primary and secondary type with distinction
 -  **Mixed**  between 25-45
 -  **Specialist** between 45-65,
 -  **Extreme Specialist** between 65-100
-
+-  
+### Frequency of each strategy in pokemon population with distinction on legendary and non legendary pokemon
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/074a1539-67ca-41a5-bc33-4d0bffd67091)
 #### It seems that there is a slight shift towards **generally balanced strategy** in *non legendary pokemon* (32% in total of 8% strongly balanced and 24% balanced) compared to *legendary pokemon* (16% balanced in total of 2% strongly balanced and 14% balanced). It also seems that there is a slight shift towards **generally specialist strategy** in *legendary pokemon* (30% in total of 20% specialist and 10% of extreme specialist) compared to *non legendary pokemon* (17% in total of 15 % specialist and 2% of extreme specialist). This might be due to generally higher combat statistic values in legendary pokemon- maybe with high combat statistics one can afford to be highly specialized?
 
+### Proportion of each strategy in each type
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/921f6c1f-e4e2-4cab-8a3a-6560f38375c0)
 #### Although there are no types with only one dominant strategy and all strategies are present in most of the types with different proportions. **Generally balanced strategy** seem to be dominant in * Grass* and *Water* types and quite substantial in *Bug*, *Fairy*, *Poison* and *Psychic*. The types with high proportion of **Generally specialist strategy** are *Rock*, *Steel* and *Fighting*.
 -  **Strongly balanced** seems to be more frequent in types with generally lower combat statistics like *Ice*, *Fairy*, *Grass*, and *Water*, and completly absent in *Steel*, *Fire* and *Electric*.
