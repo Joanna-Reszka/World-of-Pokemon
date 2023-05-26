@@ -41,7 +41,6 @@ https://github.com/infoshareacademy/jdszr12-databenders
 ##### -   are there different types of strategies among pokemon?
 ##### -   what is the distribution of those strategies among poluplation?
 #### -   are some strategies more frequent in some types than others?
-#### 5.  Examples of 4 strongest and 4 weakest pokemon  (spiderplots with plotly)
 <br />  
 
 ## Insights from the exploratory data analysys 
@@ -179,9 +178,9 @@ Frequency distribution of pokemon by primary and secondary type with distinction
 #### Chosen examples of 5 strategies:
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/21f6a071-9e43-49c4-a6f6-b6bfe4f8ea8a)
 
-### 5.  Examples of 4 strongest and 4 weakest pokemon 
+### 5.  Additional examples of 4 strongest pokemon 
 ![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/4a345dc2-92d9-4136-8bbe-258d8b9dcc74)
-![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/eb7b9990-18d6-4b55-a957-de134c692bcc)
+
 
 ## Conclusions and reccomendations
 
